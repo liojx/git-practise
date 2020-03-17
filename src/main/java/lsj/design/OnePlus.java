@@ -6,4 +6,5 @@ package lsj.design;
  */
 public class OnePlus {
 	final static String DEF = "JD";
+	final static short bc = 0;
 }
